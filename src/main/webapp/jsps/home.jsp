@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies/ Ahmed Domkreo's maven project attempt.</h1>
+<h1 align="center">Welcome to Landmark Technologies/ Hadje domkreo's maven project attempt.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	           We are raising over 1m millionaires by 2030.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. In this part of the training, i am deployment a finteck application using jenkins's Maven project style. Let'see how that works!.</h1>
